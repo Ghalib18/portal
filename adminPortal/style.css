@@ -1,0 +1,53 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    /* align-items: center; */
+    background: linear-gradient(to right, #f9f01a, #f2a02b);
+     /* background-repeat: no-repeat;  */
+    background-size:cover;
+    height: 100%;
+    
+  }
+  #nav{
+    border: 3px solid black;
+    width:25%;
+    position: relative;
+    left: 485px;
+    top: 50px;
+    border-radius: 15%;
+  }
+
+.logo{
+        display: inline-block;
+        width: 80px;
+        height: 80px;
+        border-radius: 50%;
+        overflow: hidden;
+        margin-right: 10px;
+}
+
+.logo img {
+    width: 100%;
+    height: auto;
+  }
+
+  #heading{
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  }
+
+  #govern{
+    position: relative;
+    left: 80px;
+  }
+
+  .image{
+    height: 90px;
+    width: 55px;
+    position: relative;
+    bottom: 90px;
+    right: 64px;
+  }
